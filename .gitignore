@@ -1,0 +1,10 @@
+*PackageCache.json
+*ProjectSettings.json
+*.cache
+*.props
+*.backup
+.screenshots
+*AllDependencies.json
+Exceptions_Screenshots
+Documentation
+debug.log
